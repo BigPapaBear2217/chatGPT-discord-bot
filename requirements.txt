@@ -3,3 +3,4 @@ python-dotenv==1.0.0
 revChatGPT==4.0.6.1
 openai==0.27.2
 asgiref==3.6.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
